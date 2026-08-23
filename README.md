@@ -1,6 +1,6 @@
 # Hey there👋
 
-# Welcome to my GitHub Profile, I'm Eddie - Edidiong John Akpanowo 😁
+# Welcome to my GitHub Profile, I'm Eddie (Edidiong John Akpanowo) 😁
 
 
 A Frontend Heavy FullStack Engineer who loves building software solutions that run on web devices and mobile devices
