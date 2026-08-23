@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hey there👋
 
-<!--
-**Eddie-ui/Eddie-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my GitHub Profile, I'm Eddie - Edidiong John Akpanowo 😁
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A Frontend Heavy FullStack Engineer who loves building software solutions that run on web devices and mobile devices
+
+In addition to creating applications, I enjoy exploring new technologies, building well-thought-out products, and learning new things.
+
+  - 🛠 Tech Community Contributor: 
+  Key Contributor at PENSLab OAU Research Group.
+
+  - 📚 Learning:
+  Exploring best practices in software engineering.
+  
+  - 🌟 Mentorship:
+  Actively contributing through one-on-one sessions with beginners.
+
+  - 🤝 Collaboration:
+  Looking to collaborate on innovative solutions.
+  
+  - 👩‍💼 Pronouns:
+  He/Him
+  
+  - 🎵 Fun Fact:
+  I love wrist watches and enjoy spending my time watching Mat Armstrong fix cars.
+
+  
+  - 🔍 Availability:
+  I’m also available for full-time Frontend/Fullstack Engineering roles.
+
+---
+
+## 🛠 Some Favortite Technologies and Tools
+
+<div align="center"> 
+    <a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+    <a href="https://www.javascript.com/" title="JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/></a>
+    <a href="https://reactjs.org/" title="React" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/></a>
+   <a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="40" height="40"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="40" height="40"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40" height="40"/></a>
+    <a href="https://nodejs.org/" title="Node.js" target="_blank"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/></a>
+    <a href="https://www.docker.com/" title="Docker" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" width="40" height="40"/></a>
+    <a href="https://kubernetes.io/" title="Kubernetes" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" alt="kubernetes" width="40" height="40"/></a>
+    <a href="https://www.postman.com/" title="Postman" target="_blank"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/></a>
+</div>
+
+---
+
+## 🌐 Let’s Connect  
+<p align="center">
+  <a href="https://www.linkedin.com/in/edidiong-akpanowo"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://substack.com/@kiingeddie"><img src="https://img.shields.io/badge/Substack-black?logo=medium&logoColor=white" /></a>
+  <a href="https://x.com/kiiing_eddie"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" /></a>
+  <a href="mailto:eakpanowo@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
+</p>
+
+---
