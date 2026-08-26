@@ -7,7 +7,16 @@ A Frontend Heavy FullStack Engineer who loves building software solutions that r
 
 In addition to creating applications, I enjoy exploring new technologies, building well-thought-out products, and learning new things.
 
-  - 🛠 Tech Community Contributor: 
+  - ⛩️ 5+ years of experience front-end development: 
+  Experience working with industry standard frameworks and libraries.
+
+   - 🛡️ 3+ years of experience backend development: 
+  Experience building secure backend applications with Nodejs and Python.
+
+   - 🗄️ 2 years of experience in DevOps: 
+  Garnered day to day experience deploying and managing real world applications servicing millions of people around the world.
+
+   - 🛠 Tech Community Contributor: 
   Key Contributor at PENSLab OAU Research Group.
 
   - 📚 Learning:
